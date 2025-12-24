@@ -1,0 +1,9 @@
+# doc folders
+doc_raminder
+
+
+# virtual env
+.venv
+
+# project files
+__pycache__
